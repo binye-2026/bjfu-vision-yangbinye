@@ -1,0 +1,8 @@
+build/
+*.o
+a.out
+hello
+vtest
+stats
+stats_multi
+broken
